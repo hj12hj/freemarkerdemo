@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-
+/*  generate code by freemarker  */
 public class app {
 
 
